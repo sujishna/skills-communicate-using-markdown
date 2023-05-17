@@ -5,3 +5,7 @@
 ##### hai
 ###### hai
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+// the hello world program
+console.log('Hello World');
+```
